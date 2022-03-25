@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\bin\Debug\ImageChanging.exe.config
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\bin\Debug\ImageChanging.exe
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\bin\Debug\ImageChanging.pdb
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.Form1.resources
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.Properties.Resources.resources
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.exe
+C:\Users\USER\Desktop\Programming\ImageChanging\ImageChanging\obj\Debug\ImageChanging.pdb
